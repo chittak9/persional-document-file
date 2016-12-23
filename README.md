@@ -1,4 +1,4 @@
-                                                       eCAMS document for reference
+                                                       ECAMS DOCUMENT FOR REFERENCE
                                                                ================
 
 There are three types of pages
